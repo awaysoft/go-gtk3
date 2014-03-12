@@ -1,8 +1,8 @@
 package search_entry
 
-import "github.com/norisatir/go-gtk3/gtk3"
-import "github.com/norisatir/go-gtk3/glib"
-import "github.com/norisatir/go-gtk3/gdk3"
+import "github.com/awaysoft/go-gtk3/gtk3"
+import "github.com/awaysoft/go-gtk3/glib"
+import "github.com/awaysoft/go-gtk3/gdk3"
 
 var window *gtk3.Dialog = nil
 

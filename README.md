@@ -5,6 +5,7 @@ THIS IS:
 --------
 
     Hopefully GTK3 Bindings using gobject binding for Go.
+	It is based on https://github.com/norisatir/go-gtk3
 
     Goal is to have fairly complete gtk3 widgets
     with pango, gdkpixbuf and cairo objects.
@@ -13,12 +14,12 @@ THIS IS:
 INSTALL:
 --------
 
-    go get github.com/norisatir/go-gtk3/gtk3
+    go get github.com/awaysoft/go-gtk3/gtk3
 
 
   For demo:
   
-    cd $GOPATH/src/github.com/norisatir/go-gtk3/demo
+    cd $GOPATH/src/github.com/awaysoft/go-gtk3/demo
     go build
     ./demo
   

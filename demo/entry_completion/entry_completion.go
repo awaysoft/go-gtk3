@@ -1,7 +1,7 @@
 package entry_completion
 
-import "github.com/norisatir/go-gtk3/gobject"
-import "github.com/norisatir/go-gtk3/gtk3"
+import "github.com/awaysoft/go-gtk3/gobject"
+import "github.com/awaysoft/go-gtk3/gtk3"
 
 var window *gtk3.Dialog = nil
 

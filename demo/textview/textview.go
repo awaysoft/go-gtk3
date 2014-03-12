@@ -1,8 +1,8 @@
 package textview
 
-import "github.com/norisatir/go-gtk3/gtk3"
-import "github.com/norisatir/go-gtk3/gdkpixbuf"
-import "github.com/norisatir/go-gtk3/pango"
+import "github.com/awaysoft/go-gtk3/gtk3"
+import "github.com/awaysoft/go-gtk3/gdkpixbuf"
+import "github.com/awaysoft/go-gtk3/pango"
 import "path/filepath"
 import "os"
 

@@ -1,7 +1,7 @@
 package assistant
 
-import "github.com/norisatir/go-gtk3/gtk3"
-import "github.com/norisatir/go-gtk3/glib"
+import "github.com/awaysoft/go-gtk3/gtk3"
+import "github.com/awaysoft/go-gtk3/glib"
 import "fmt"
 
 var assistant *gtk3.Assistant = nil

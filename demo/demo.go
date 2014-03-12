@@ -1,22 +1,22 @@
 package main
 
 import (
-	"github.com/norisatir/go-gtk3/demo/assistant"
-	"github.com/norisatir/go-gtk3/demo/button_box"
-	"github.com/norisatir/go-gtk3/demo/combobox"
-	"github.com/norisatir/go-gtk3/demo/dialog"
-	"github.com/norisatir/go-gtk3/demo/entry_buffer"
-	"github.com/norisatir/go-gtk3/demo/entry_completion"
-	"github.com/norisatir/go-gtk3/demo/list_store"
-	"github.com/norisatir/go-gtk3/demo/menu"
-	"github.com/norisatir/go-gtk3/demo/search_entry"
-	"github.com/norisatir/go-gtk3/demo/spinner"
-	"github.com/norisatir/go-gtk3/demo/infobar"
-	"github.com/norisatir/go-gtk3/demo/textview"
-	"github.com/norisatir/go-gtk3/demo/tree_store"
-	"github.com/norisatir/go-gtk3/gobject"
-	"github.com/norisatir/go-gtk3/gtk3"
-	"github.com/norisatir/go-gtk3/pango"
+	"github.com/awaysoft/go-gtk3/demo/assistant"
+	"github.com/awaysoft/go-gtk3/demo/button_box"
+	"github.com/awaysoft/go-gtk3/demo/combobox"
+	"github.com/awaysoft/go-gtk3/demo/dialog"
+	"github.com/awaysoft/go-gtk3/demo/entry_buffer"
+	"github.com/awaysoft/go-gtk3/demo/entry_completion"
+	"github.com/awaysoft/go-gtk3/demo/list_store"
+	"github.com/awaysoft/go-gtk3/demo/menu"
+	"github.com/awaysoft/go-gtk3/demo/search_entry"
+	"github.com/awaysoft/go-gtk3/demo/spinner"
+	"github.com/awaysoft/go-gtk3/demo/infobar"
+	"github.com/awaysoft/go-gtk3/demo/textview"
+	"github.com/awaysoft/go-gtk3/demo/tree_store"
+	"github.com/awaysoft/go-gtk3/gobject"
+	"github.com/awaysoft/go-gtk3/gtk3"
+	"github.com/awaysoft/go-gtk3/pango"
 )
 
 type Demo struct {

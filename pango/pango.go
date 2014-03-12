@@ -16,7 +16,7 @@ import "C"
 
 import "unsafe"
 import "runtime"
-import "github.com/norisatir/go-gtk3/gobject"
+import "github.com/awaysoft/go-gtk3/gobject"
 
 type pangoTypes struct {
 	CONTEXT          gobject.GType
